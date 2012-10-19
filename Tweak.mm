@@ -14,7 +14,7 @@
 %hook SBUIController
 - (BOOL)isBatteryCharging {
 
-    UIView *abc = [[UIView alloc] initWithFrame:CGRectMake(40, 120, 70,70)];
+    UIView *abc = [[UIView alloc] initWithFrame:CGRectMake(40, 120, 30,30)];
     abc.backgroundColor = [UIColor blueColor];
     UIWindow *topWindow = MSHookIvar <UIWindow *> (self, "_window");
     [topWindow addSubview:abc];
@@ -23,7 +23,7 @@
 }
 - (BOOL)isOnAC {
 
-    UIView *abc = [[UIView alloc] initWithFrame:CGRectMake(40, 120, 70,70)];
+    UIView *abc = [[UIView alloc] initWithFrame:CGRectMake(40, 120, 30,30)];
     abc.backgroundColor = [UIColor blueColor];
     UIWindow *topWindow = MSHookIvar <UIWindow *> (self, "_window");
     [topWindow addSubview:abc];
