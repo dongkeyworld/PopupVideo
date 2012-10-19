@@ -1,0 +1,9 @@
+Package: kr.dongkeyapps.PopupVideo
+Name: PopupVideo
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: You can use Popup-Video on iOS.
+Maintainer: Donghwi Kim
+Author: Donghwi Kim
+Section: Tweaks

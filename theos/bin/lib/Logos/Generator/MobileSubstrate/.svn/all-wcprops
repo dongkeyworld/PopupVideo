@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/theos/!svn/ver/476/trunk/bin/lib/Logos/Generator/MobileSubstrate
+END
+Class.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/theos/!svn/ver/476/trunk/bin/lib/Logos/Generator/MobileSubstrate/Class.pm
+END
+Generator.pm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/theos/!svn/ver/474/trunk/bin/lib/Logos/Generator/MobileSubstrate/Generator.pm
+END
+Subclass.pm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/theos/!svn/ver/474/trunk/bin/lib/Logos/Generator/MobileSubstrate/Subclass.pm
+END
+Method.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/theos/!svn/ver/474/trunk/bin/lib/Logos/Generator/MobileSubstrate/Method.pm
+END
